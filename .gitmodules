@@ -1,0 +1,3 @@
+[submodule "tccufmg"]
+	path = tccufmg
+	url = git@github.com:igormazzeto/tccufmg.git
